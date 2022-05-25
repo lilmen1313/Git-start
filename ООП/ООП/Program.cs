@@ -10,5 +10,6 @@ Console.WriteLine($"Сумма a и b, возведённая в квадрат 
 Console.WriteLine($"Разность a и b равна {a - b}");
 Console.WriteLine($"Hi!");
 Console.WriteLine($"Hi Илья!");
+Console.ForegroundColor = ConsoleColor.Blue;
 Console.WriteLine("Hi " + "Ilya");
 Console.WriteLine($"а = {a:F2} b = {b:F2}");
