@@ -15,3 +15,4 @@ Console.WriteLine("Hi " + "Ilya");
 Console.WriteLine($"а = {a:F2} b = {b:F2}");
 Console.WriteLine($"FF");
 Console.WriteLine($"FF_01");
+Console.WriteLine($"CP");
